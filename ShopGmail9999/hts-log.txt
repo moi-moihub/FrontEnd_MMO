@@ -1,0 +1,11 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 15 Aug 2025 14:56:47 at https://api.shopgmail9999.com/ +*.example.com/* +*.cdn.example.com/* -ad.doubleclick.net/* -*/logout*
+(winhttrack -qw%e0C2%PX0s2u1%s%uN0%I0p3DaK0c6T60H0%kf2o0%c2%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://api.shopgmail9999.com/ -O1 "C:\My Web Sites\ShopGmail9999" +*.example.com/* +*.cdn.example.com/* -ad.doubleclick.net/* -*/logout* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 19 seconds : 26 links scanned, 24 files written (2250751 bytes overall) [684971 bytes received at 36051 bytes/sec], 2178270 bytes transferred using HTTP compression in 21 files, ratio 27%, 10.6 requests per connection
+(No errors, 0 warnings, 0 messages)

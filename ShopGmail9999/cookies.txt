@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+api.shopgmail9999.com	TRUE	/	FALSE	1999999999	.AspNetCore.Antiforgery.Tp7wjq0TeKo	CfDJ8JLjS9L1EDtCmSqhbbIa-SIg-6vgwuy_yXoxI9E4YFkcoLB49UaPwgvQVjMV0YwhtX657ErATnNF_6xDcrPVBQ1TrmFb-9_iSK_ZTl0W46BZVxlHkxGtpDyZZ7wO_MQ18a2y5wIhktXxE_yv-ll3uAI
+api.shopgmail9999.com	TRUE	/	FALSE	1999999999	SameSite	Strict
+

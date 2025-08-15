@@ -1,0 +1,8 @@
+-qw%e0C2%PX0s2u1%s%uN0%I0p3DaK0c6T60H0%kf2o0%c2%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://api.shopgmail9999.com/ -O1 "C:\My Web Sites\ShopGmail9999" +*.example.com/* +*.cdn.example.com/* -ad.doubleclick.net/* -*/logout*
+File generated automatically on Fri, 15 Aug 2025 14:56:47, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
